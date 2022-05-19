@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {
+      "$oid": "62836a1e06e858f8da7d6062"
+    },
+    "question": "Was ist React ?",
+    "answerOne": "Ist eine Stadt",
+    "answerTwo": "Ist ein Auto",
+    "answerThree": "React ist ein JavaScript-Framework"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "question": "Was ist React-Dom ?",
+    "answerOne": "Ist ein Framework",
+    "answerTwo": "vergleicht das vorherige und jetztige Element und dessen Kindelemente miteinander",
+    "answerThree": "Ist eine Kirche"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "question": "Was ist Javascript ?",
+    "answerOne": "Ist eine Scriptsprache",
+    "answerTwo": "Ist ein Pferd",
+    "answerThree": "Ist ein tool von erstellen von webseiten"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "question": "Was sind Hooks ?",
+    "answerOne": "damit lassen sich state und andere react future benutzen",
+    "answerTwo": "eine sprache zum erstellen einer datenbankstrukturen",
+    "answerThree": "ein programm zum erstellen von Designe"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "question": "Was ist HTML ?",
+    "answerOne": "Ist eine Sekte",
+    "answerTwo": "Ist eine sprache zum designen von webseiten",
+    "answerThree": "Hypertext Markup Language"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "question": "Was ist Css ?",
+    "answerOne": "Ermöglicht das designe von elektronischen Elemente",
+    "answerTwo": "programm zum malen",
+    "answerThree": "eine sprache zum erstellen von Tabellen"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "question": "Was ist MongoDb  ?",
+    "answerOne": "Ist eine NoSQL Datenbankmanagementsystem",
+    "answerTwo": "Ist eine SQL Datenbankmanagementsystem",
+    "answerThree": "Ist eine Programiersprache"
+  },
+  {
+    "_id": {
+      "$oid": ""
+    },
+    "question": "Was ist LowDB ?",
+    "answerOne": "Ist eine Große Datenbank",
+    "answerTwo": "Ist ein Tool zum erstellen von Programmen",
+    "answerThree": "Ist eine leichtgewichtige und flexible Datenbank "
+  },
+  {
+    "_id": {
+      "$oid": "62836a1e06e858f8da7d6062"
+    },
+    "question": "Was ist React ?",
+    "answerOne": "Ist eine Stadt",
+    "answerTwo": "Ist ein Auto",
+    "answerThree": "React ist ein JavaScript-Framework"
+  },
+  {
+    "_id": {
+      "$oid": "62836a1e06e858f8da7d6062"
+    },
+    "question": "Was ist React ?",
+    "answerOne": "Ist eine Stadt",
+    "answerTwo": "Ist ein Auto",
+    "answerThree": "React ist ein JavaScript-Framework"
+  }
+]
