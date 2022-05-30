@@ -1,92 +1,122 @@
 [
   {
-    "_id": {
-      "$oid": "62836a1e06e858f8da7d6062"
-    },
     "question": "Was ist React ?",
-    "answerOne": "Ist eine Stadt",
-    "answerTwo": "Ist ein Auto",
-    "answerThree": "React ist ein JavaScript-Framework"
+    "optionA": "Ist eine Stadt",
+    "optionB": "Ist ein Auto",
+    "optionC": "React ist ein JavaScript-Framework",
+    "optionD": "KEINE AHNUNG",
+    "answer": "React ist ein JavaScript-Framework"
   },
   {
-    "_id": {
-      "$oid": ""
-    },
     "question": "Was ist React-Dom ?",
-    "answerOne": "Ist ein Framework",
-    "answerTwo": "vergleicht das vorherige und jetztige Element und dessen Kindelemente miteinander",
-    "answerThree": "Ist eine Kirche"
+    "optionA": "Ist ein Framework",
+    "optionB": "vergleicht das vorherige und jetztige Element und dessen Kindelemente miteinander",
+    "optionC": "Ist eine Kirche",
+    "optionD": "KEINE AHNUNG",
+    "answer": "vergleicht das vorherige und jetztige Element und dessen Kindelemente miteinander"
   },
   {
-    "_id": {
-      "$oid": ""
-    },
     "question": "Was ist Javascript ?",
-    "answerOne": "Ist eine Scriptsprache",
-    "answerTwo": "Ist ein Pferd",
-    "answerThree": "Ist ein tool von erstellen von webseiten"
+    "optionA": "Ist eine Scriptsprache",
+    "optionB": "Ist ein Pferd",
+    "optionC": "Ist ein tool von erstellen von webseiten",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Ist eine Scriptsprache"
   },
   {
-    "_id": {
-      "$oid": ""
-    },
     "question": "Was sind Hooks ?",
-    "answerOne": "damit lassen sich state und andere react future benutzen",
-    "answerTwo": "eine sprache zum erstellen einer datenbankstrukturen",
-    "answerThree": "ein programm zum erstellen von Designe"
+    "optionA": "damit lassen sich state und andere react future benutzen",
+    "optionB": "eine sprache zum erstellen einer datenbankstrukturen",
+    "optionC": "ein programm zum erstellen von Designe",
+    "optionD": "KEINE AHNUNG",
+    "answer": "damit lassen sich state und andere react future benutzen"
   },
   {
-    "_id": {
-      "$oid": ""
-    },
     "question": "Was ist HTML ?",
-    "answerOne": "Ist eine Sekte",
-    "answerTwo": "Ist eine sprache zum designen von webseiten",
-    "answerThree": "Hypertext Markup Language"
+    "optionA": "Ist eine Sekte",
+    "optionB": "Ist eine sprache zum designen von webseiten",
+    "optionC": "Hypertext Markup Language",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Hypertext Markup Language"
   },
   {
-    "_id": {
-      "$oid": ""
-    },
     "question": "Was ist Css ?",
-    "answerOne": "Ermöglicht das designe von elektronischen Elemente",
-    "answerTwo": "programm zum malen",
-    "answerThree": "eine sprache zum erstellen von Tabellen"
+    "optionA": "Ermöglicht das designe von elektronischen Elementen",
+    "optionB": "programm zum malen",
+    "optionC": "eine sprache zum erstellen von Tabellen",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Ermöglicht das designe von elektronischen Elementen"
   },
   {
-    "_id": {
-      "$oid": ""
-    },
-    "question": "Was ist MongoDb  ?",
-    "answerOne": "Ist eine NoSQL Datenbankmanagementsystem",
-    "answerTwo": "Ist eine SQL Datenbankmanagementsystem",
-    "answerThree": "Ist eine Programiersprache"
+    "question": "Was ist MongoDb ?",
+    "optionA": "Ist ein NoSQL Datenbankmanagementsystem",
+    "optionB": "Ist ein SQL Datenbankmanagementsystem",
+    "optionC": "Ist eine Programiersprache",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Ist ein NoSQL Datenbankmanagementsystem"
   },
   {
-    "_id": {
-      "$oid": ""
-    },
     "question": "Was ist LowDB ?",
-    "answerOne": "Ist eine Große Datenbank",
-    "answerTwo": "Ist ein Tool zum erstellen von Programmen",
-    "answerThree": "Ist eine leichtgewichtige und flexible Datenbank "
+    "optionA": "Ist eine Große Datenbank",
+    "optionB": "Ist ein Tool zum erstellen von Programmen",
+    "optionC": "Ist eine leichtgewichtige und flexible Datenbank",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Ist eine leichtgewichtige und flexible Datenbank"
   },
   {
-    "_id": {
-      "$oid": "62836a1e06e858f8da7d6062"
-    },
-    "question": "Was ist React ?",
-    "answerOne": "Ist eine Stadt",
-    "answerTwo": "Ist ein Auto",
-    "answerThree": "React ist ein JavaScript-Framework"
+    "question": "Was ist SQL ?",
+    "optionA": "Ein Framework",
+    "optionB": "Datenbanksprache zur Erstellung von Datenbankstructuren",
+    "optionC": "Ein Software Queery",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Datenbanksprache zur Erstellung von Datenbankstructuren"
   },
   {
-    "_id": {
-      "$oid": "62836a1e06e858f8da7d6062"
-    },
-    "question": "Was ist React ?",
-    "answerOne": "Ist eine Stadt",
-    "answerTwo": "Ist ein Auto",
-    "answerThree": "React ist ein JavaScript-Framework"
+    "question": "Was ist Bootstrap ?",
+    "optionA": "Ist eine Datenbank",
+    "optionB": "Ist eine Programmier Sprache",
+    "optionC": "ein quelloffenes Frontend-Web-Framework zur Erstellung von Webseiten",
+    "optionD": "KEINE AHNUNG",
+    "answer": "ein quelloffenes Frontend-Web-Framework zur Erstellung von Webseiten"
+  },
+  {
+    "question": "Was ist SASS ?",
+    "optionA": "Short await script",
+    "optionB": "ist eine Stylesheet-Sprache",
+    "optionC": "Eine Krankheit aus Süd Amerika",
+    "optionD": "KEINE AHNUNG",
+    "answer": "ist eine Stylesheet-Sprache"
+  },
+  {
+    "question": "Was ist Postman ?",
+    "optionA": "Werkzeug zum Testen von APIs",
+    "optionB": "Ein Postbote",
+    "optionC": "Ein Film über Web-Entwickler",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Werkzeug zum Testen von APIs"
+  },
+  {
+    "question": "Was ist eine API ?",
+    "optionA": "Android-Program-It",
+    "optionB": "Ein Browser",
+    "optionC": "Eine Schnittstelle",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Eine Schnittstelle"
+  },
+  {
+    "question": "Was ist Express ?",
+    "optionA": "Ein schnell Zug",
+    "optionB": "Node.js-Framework",
+    "optionC": "Zu stellung von Daten",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Node.js-Framework"
+  },
+  {
+    "question": "Was ist nodemon ?",
+    "optionA": "CLI-Dienstprogramm",
+    "optionB": "Ein Chat Liste im Internet",
+    "optionC": "Ein Mond im äusseren Sonnensystem",
+    "optionD": "KEINE AHNUNG",
+    "answer": "CLI-Dienstprogramm"
   }
 ]

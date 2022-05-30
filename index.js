@@ -4,23 +4,25 @@ import express from "express";
 import cors from "cors";
 dotenv.config();
 
-const port = process.env.PORT || 4000;
+const port = process.env.PORT || 5000;
 
 const app = express();
 app.use(cors());
 
 const userSchema = new mongoose.Schema({
   question: String,
-  answerOne: String,
-  answerTwo: String,
-  answerThree: String,
+  optionA: String,
+  optionB: String,
+  optionC: String,
+  optionD: String,
+  answer: String,
 });
 
-const User = mongoose.model("Questions", userSchema);
+const User = mongoose.model("Question", userSchema, "Questions");
 
 // Hauptseite
 app.use(express.json());
-app.get("/", async (req, res) => {
+app.get("/play/quiz", async (req, res) => {
   let questions = [];
   if (req.query.minage) {
     questions = await User.find({ age: { $gt: req.query.minage } }).exec();
